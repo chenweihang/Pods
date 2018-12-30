@@ -1,0 +1,6 @@
+framework module Pods_Aircafe005 {
+  umbrella header "Pods-Aircafe005-umbrella.h"
+
+  export *
+  module * { export * }
+}
